@@ -1,1 +1,1 @@
-# projetos de teste em programaçao python usados para estudo
+Projetos de estudo de machine Learning usando linguagem Python e Julia
